@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68461094637",
+    "project_id": "to-do-listapp-5450d",
+    "storage_bucket": "to-do-listapp-5450d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68461094637:android:f461bd4a79a7161ba1cee4",
+        "android_client_info": {
+          "package_name": "com.example.to_do_listapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisV3GXOPndoq-lQO1vOjKimq9arJJ9uU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
